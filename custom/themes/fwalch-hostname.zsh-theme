@@ -27,7 +27,7 @@ repo_information() {
 
 # Get the current hostname, only valid though SSH connections. Still looks ugly
 # but didn't find a better way
-local hostname="%{$fg_bold[black]%}[@%m]"
+local hostname="%{$fg_bold[yellow]%}[@%m]"
 
 PROMPT='${hostname} $(repo_information)$FX[bold]%F{blue}$(git_prompt_info)%f$FX[no-bold] '
 
