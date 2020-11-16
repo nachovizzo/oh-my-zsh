@@ -1,3 +1,6 @@
 [submodule "custom/plugins/zsh-autosuggestions"]
 	path = custom/plugins/zsh-autosuggestions
 	url = https://github.com/zsh-users/zsh-autosuggestions
+[submodule "custom/plugins/autoswitch_conda"]
+	path = custom/plugins/autoswitch_conda
+	url = git@github.com:bckim92/zsh-autoswitch-conda.git
