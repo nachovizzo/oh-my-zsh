@@ -1,3 +1,6 @@
 [submodule "custom/plugins/zsh-autosuggestions"]
 	path = custom/plugins/zsh-autosuggestions
 	url = https://github.com/zsh-users/zsh-autosuggestions
+[submodule "custom/plugins/autoswitch_virtualenv"]
+	path = custom/plugins/autoswitch_virtualenv
+	url = git@github.com:MichaelAquilina/zsh-autoswitch-virtualenv.git
