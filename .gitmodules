@@ -4,3 +4,6 @@
 [submodule "custom/plugins/zsh-autoswitch-virtualenv"]
 	path = custom/plugins/zsh-autoswitch-virtualenv
 	url = git@github.com:MichaelAquilina/zsh-autoswitch-virtualenv.git
+[submodule "custom/plugins/zsh-completions"]
+	path = custom/plugins/zsh-completions
+	url = https://github.com/zsh-users/zsh-completions
